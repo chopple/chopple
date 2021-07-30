@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chopple
-- 👀 I’m interested in cybersecurity, networking and cybersecurity.  Automation my be a given!
+- 👀 I’m interested in networking and cybersecurity.  Automation my be a given!
 - 🌱 I’m currently learning anything I can.
 
 <!---
